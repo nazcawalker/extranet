@@ -1,6 +1,6 @@
 # Персональный сайт А. Баронин 
 
-[py-machine.jpg](https://postimg.cc/MftKDNb7)
+[![py-machine.jpg](https://i.postimg.cc/5jWYxMXR/py-machine.jpg)](https://postimg.cc/MftKDNb7)
 
 Рад приветствовать вас на моем виртуальном уголке мира! Здесь вы узнаете что такое программирование. Давайте поделюсь с вами несколькими фрагментами из моей жизни.
 
